@@ -6,3 +6,11 @@ Poc to draw simple maps to remember and share places.
 
 * http://geojson.io
 * https://adresse.data.gouv.fr/csv
+
+## To map
+
+* Papa poule
+* Shangaï kitchen
+* Chez Maddie
+* Momoun
+* Pouce!
