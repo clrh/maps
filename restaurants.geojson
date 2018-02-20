@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0076A8",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "la poule noire",
+        "type": "restaurant",
+        "adresse": "61 rue sainte, Marseille"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.373188853263855,
+          43.291970379540714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0076a8",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "restaurant",
+        "nom": "l'arôme",
+        "adresse": "9 rue des trois rois, Marseille"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3847625851631165,
+          43.294233049007744
+        ]
+      }
+    }
+  ]
+}
