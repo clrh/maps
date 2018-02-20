@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+# requirement: pip install geopy
 
 from geopy.geocoders import Nominatim
 
@@ -33,7 +34,7 @@ def main( argv ):
         '-h',
         '--help',
         default = False,
-        help    = 'Prints a geojson point with these args: --address (-a) --name (-n) and --type (-t)',
+        help    = 'Prints a geojson point',
         action  = 'help'
     )
     parser.add_argument(
