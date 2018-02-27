@@ -6,7 +6,7 @@
       "properties": {
         "marker-color": "#0076A8",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "restaurant",
         "nom": "la poule noire",
         "type": "restaurant",
         "adresse": "61 rue sainte, Marseille"
@@ -24,7 +24,7 @@
       "properties": {
         "marker-color": "#0076a8",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "restaurant",
         "type": "restaurant",
         "nom": "l'arôme",
         "adresse": "9 rue des trois rois, Marseille"
@@ -34,6 +34,204 @@
         "coordinates": [
           5.3847625851631165,
           43.294233049007744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0076A8",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "nom": "Chez Papa poule",
+        "type": "restaurant",
+        "adresse": "68 Rue Breteuil, 13006 Marseille"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.378394,
+          43.2839674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0076A8",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "nom": "Shangaï kitchen",
+        "type": "restaurant",
+        "adresse": "14 Cours Jean Ballard, 13001 Marseille"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3742737,
+          43.2932473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0076A8",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "nom": "Chez Maddie",
+        "type": "restaurant",
+        "adresse": "138 Quai du Port, 13002 Marseille"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3675673,
+          43.2959556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0076A8",
+        "marker-size": "medium",
+        "marker-symbol": "school",
+        "nom": "Mo moon",
+        "type": "restaurant",
+        "adresse": "201 Rue Paradis, 13006 Marseille"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3807738,
+          43.2841494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0076A8",
+        "marker-size": "medium",
+        "marker-symbol": "school",
+        "nom": "Pouce!",
+        "type": "restaurant",
+        "adresse": "95 Boulevard Longchamp, 13001 Marseille"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3909187,
+          43.3027182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0076A8",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "nom": "Les buvards",
+        "type": "restaurant",
+        "adresse": "34 Grand Rue, 13002 Marseille"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3715593,
+          43.2978086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0076A8",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "nom": "Le cours en vert",
+        "type": "restaurant",
+        "adresse": "102 Cours Julien, 13006 Marseille"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3833626,
+          43.2928883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#F3F781",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "nom": "Bien être et Petit plat",
+        "type": "restaurant",
+        "adresse": "15 Rue Louis Maurel, 13006 Marseille"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3832242,
+          43.2857554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#F3F781",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "nom": "Greendeliss",
+        "type": "restaurant",
+        "adresse": "11 Avenue du Maréchal Foch, 13004 Marseille"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3978186,
+          43.3020063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#F3F781",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "nom": "Bistrot 13B",
+        "type": "restaurant",
+        "adresse": "13 Rue Breteuil, 13001 Marseille"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3751072,
+          43.2922106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#F3F781",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "nom": "Teavora",
+        "type": "restaurant",
+        "adresse": "65 Boulevard Longchamp, 13001 Marseille"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3895807,
+          43.3020947
         ]
       }
     }
