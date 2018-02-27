@@ -234,6 +234,61 @@
           43.3020947
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0076A8",
+        "marker-size": "medium",
+        "marker-symbol": "restautant",
+        "nom": "Au Cameleon",
+        "type": "restaurant",
+        "adresse": "11 Rue du Maréchal Joffre, 13100 Aix-en-Provence"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4547482,
+          43.5264558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0076A8",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "nom": "Anti café",
+        "type": "restaurant",
+        "adresse": "27 Rue Granet, 13100 Aix-en-Provence"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4488899,
+          43.5299766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0076A8",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "nom": "Le Chat Qui Tricote",
+        "type": "restaurant",
+        "adresse": "28 Rue Constantin, 13100 Aix-en-Provence"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.450238,
+          43.5305925
+        ]
+      }
     }
   ]
 }
+
